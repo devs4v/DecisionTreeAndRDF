@@ -1,0 +1,14 @@
+sunny,high,high,false,Don'tPlay
+sunny,high,high,true,Don'tPlay
+overcast,high,high,false,Play
+rain,low,high,false,Play
+rain,low,high,false,Play
+rain,low,low,true,Don'tPlay
+overcast,low,low,true,Play
+sunny,low,high,false,Don'tPlay
+sunny,low,low,false,Play
+rain,high,high,false,Play
+sunny,high,low,true,Play
+overcast,low,high,true,Play
+overcast,high,high,false,Play
+rain,low,high,true,Don'tPlay

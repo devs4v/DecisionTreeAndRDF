@@ -1,0 +1,5 @@
+Play,Don'tPlay
+outlook:rain,overcast,sunny
+temperature:high,low
+humidity:high,low
+windy:true,false
